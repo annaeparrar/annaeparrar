@@ -37,6 +37,13 @@ Systems Engineer holding an **MBA in Business Management** with over 15 years of
 
 ---
 
+## Leadership Programs & Technological Accelerations
+
+- **DIO Campus Expert (Cohorts 16 & 17) — Campus Ambassador & Active Participant:** Selected as a technical community ambassador and active participant across sequential cohorts, driving practical project-based learning, engineering portfolio optimization, and collaborative technology initiatives within the ecosystem.
+- **Santander Open Academy — Skills for Work / Executive Tech Programs (2026):** Selected participant in high-impact scholarship accelerators, focusing on advanced business intelligence, artificial intelligence integration frameworks, and enterprise-grade data engineering methodologies.
+
+---
+
 ## Education & Academic Credentials
 
 - **MBA in Business Management** — Focus on Strategic Business Planning, Financial Governance, and Corporate Leadership.
