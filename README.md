@@ -1,66 +1,60 @@
-# Hi there 👋, I'm Anna Elizabeth Parra Rausseo
+# Anna Elizabeth Parra Rausseo
 
-### **SAP Business Analyst (FI/CO/MM) | Systems Engineer & MBA | Global Process Optimization & Data Analytics**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Core-SAP%20FI%2FCO%2FMM-blue?style=flat-square" alt="SAP">
-  <img src="https://img.shields.io/badge/Data-Power%20BI%20%7C%20Tableau%20%7C%20SQL-orange?style=flat-square" alt="Data Analytics">
-  <img src="https://img.shields.io/badge/Automation-Python%20%7C%20Selenium%20%7C%20FastAPI-yellow?style=flat-square" alt="Automation">
-  <img src="https://img.shields.io/badge/Location-Remote%20%2F%20LATAM-lightgrey?style=flat-square" alt="Location">
-</p>
+### **SAP Business Analyst (FI/CO/MM) | Systems Engineer & MBA | Enterprise Architecture & Digital Commerce Solutions**
 
 ---
 
-## 🚀 Professional Summary
+## Professional Summary
 
-Systems Engineer with an **MBA in Business Management** and **over 15 years of experience** acting as a strategic bridge between enterprise operations, finance, and advanced technology. Expert in functional implementation, data analytics, and digital transformation, aligning operational processes with corporate strategic planning and annual business goals.
-
----
-
-## 🛠️ Core Expertise & Tech Stack
-
-- **Enterprise Systems & ERP:** SAP (Modules: FI, CO, MM), S/4HANA Ready.
-- **Data Analytics & BI:** Power BI, Tableau, Advanced SQL, Data Modeling, KPI Tracking & Financial Dashboards.
-- **Process Optimization & Mapping:** BPMN (Bizagi), Global Process Re-engineering, Change Management.
-- **Backend & Automation Development:** Python, FastAPI, Selenium (Web Scraping & Market Intelligence Automation).
+Systems Engineer holding an **MBA in Business Management** with over 15 years of experience bridging enterprise operations, financial structures, and advanced technological solutions. Recognized authority in the mapping, migration, integration, and testing of digital sales platforms for both retail and wholesale (atacado) sectors. Demonstrated success in orchestrating digital transformation, driving process optimization, and aligning complex operational ecosystems with corporate strategic planning and annual business objectives.
 
 ---
 
-## 📂 Key Projects & Business Impact
+## Core Expertise & Technical Competencies
 
-### 1. Enterprise Integration & Logistics Sync: iFood & 99Food Systems
-- **Overview:** Designed and orchestrated the technical data sync workflows, process discovery documents, and operational communication bridges for multi-platform delivery integration.
-- **Impact & Strategic Alignment:** Streamlined cross-platform order processing and logistics transparency. Reduced operational friction and manual exception handling by **28%**, directly accelerating fulfillment velocity and supporting corporate scalability targets aligned with yearly digital expansion goals.
-
-### 2. Multi-Vendor E-Commerce & Retail Marketplace: oSuper Integration
-- **Overview:** Developed operational mapping and automated catalog/pricing data pipelines to integrate regional marketplace platforms.
-- **Impact & Strategic Alignment:** Enhanced data accuracy across vendor inventories, reducing synchronization latency by **35%**. Enabled sharper commercial decision-making and improved profit margin visibility, actively driving top-line revenue growth in alignment with regional strategic budgeting plans.
-
-### 3. Market Intelligence & Pricing Automation: Ofertas RS Pro
-- **Overview:** Built an advanced web-scraping and automated price-comparison framework using Python, FastAPI, and Selenium.
-- **Impact & Strategic Alignment:** Automated real-time competitor tracking and data collection for regional markets, saving over **40 hours** of manual data collection per month and empowering strategic pricing adjustments with high precision.
+- **ERP & Enterprise Systems:** SAP (Modules: FI, CO, MM), S/4HANA Ready, Global Process Re-engineering.
+- **Digital Commerce & Sales Platforms:** End-to-end mapping, data migration, systems integration, and quality assurance/testing for retail and wholesale multi-channel environments.
+- **Data Analytics & Business Intelligence:** Power BI, Tableau, Advanced SQL, Data Modeling, Enterprise KPI Tracking.
+- **Process Modeling & Governance:** BPMN 2.0 (Bizagi), Change Management, Operational Compliance.
+- **Backend & Automation Engineering:** Python, FastAPI, Selenium, Automated Web Scraping & Market Intelligence.
+- **Languages:** English (Professional), Spanish (Native), Portuguese (Professional).
 
 ---
 
-## 📚 Education & Academic Background
+## Key Projects & Strategic Business Impact
 
-- **MBA in Business Management** — Specialized in strategic business planning, financial management, and corporate leadership.
-- **Systems Engineer** — Strong foundation in software architecture, systems analysis, and enterprise technologies.
+### 1. Multi-Platform Digital Commerce Integration: iFood & 99Food Systems
+- **Overview:** Architected and executed technical data synchronization workflows, process discovery documentation, and operational communication bridges for high-volume delivery ecosystems.
+- **Impact & Strategic Alignment:** Streamlined cross-platform order processing and logistics transparency. Reduced operational friction and manual exception handling by **28%**, accelerating fulfillment velocity and directly supporting corporate scalability targets aligned with annual digital expansion frameworks.
+
+### 2. Omnichannel Retail & Wholesale Platform Migration: oSuper Integration
+- **Overview:** Directed operational mapping, data migration pipelines, and rigorous integration testing for multi-vendor retail and wholesale marketplace platforms.
+- **Impact & Strategic Alignment:** Enhanced data integrity across vendor inventories, reducing synchronization latency by **35%**. Enabled robust commercial visibility and optimized profit margins, directly driving top-line revenue growth in alignment with regional strategic planning.
+
+### 3. Market Intelligence & Automated Pricing Architecture: OfertasRS (Supermarket & Pharmacy Sectors)
+- **Overview:** Engineered an advanced automation and artificial intelligence-driven framework (OfertasRS) utilizing Python, FastAPI, and Selenium to execute dynamic multi-source web-scraping, data extraction, and real-time comparative analytics specifically tailored for the supermarket and pharmaceutical retail segments.
+- **Impact & Strategic Alignment:** Automated end-to-end competitive intelligence pipelines across fragmented regional retail channels, eliminating over **40 hours** of manual monthly processing overhead. Empowered executive leadership and commercial teams with high-precision pricing analytics, enabling agile margin adjustments and reinforcing strategic positioning against macroeconomic pricing pressures.
 
 ---
 
-## 🏆 Certifications & Continuous Learning
+## Education & Academic Credentials
 
-- **DIO & Major Tech Partnerships Bootcamps:** Active continuous development in AI-driven engineering, advanced data pipelines, and cloud ecosystems (including recent pathways with Microsoft Foundry, IBM Confluent, and Itaú architectures).
-- **Specialized Analytics & ERP Competencies:** Advanced functional training in SAP financial/controlling workflows and modern business intelligence suites.
+- **MBA in Business Management** — Focus on Strategic Business Planning, Financial Governance, and Corporate Leadership.
+- **Systems Engineer** — Advanced foundation in Software Architecture, Systems Analysis, and Enterprise Technologies.
 
 ---
 
-## 📫 Connect with Me
+## Certifications & Continuous Professional Development
+
+- **Advanced Tech Ecosystems:** Active continuous training via executive programs and specialized tracks, including cloud architectures (IBM Confluent), AI-driven engineering frameworks (Microsoft Foundry), and enterprise financial integration (Itaú).
+- **Specialized Analytics & ERP Domains:** Advanced functional proficiency in SAP financial controlling workflows, corporate business intelligence suites, and enterprise business process modeling.
+
+---
+
+## Professional Contact
 
 - **LinkedIn:** [Anna Elizabeth Parra Rausseo](https://www.linkedin.com/in/annaeparrar)
 - **Email:** `annaeparrar@gmail.com`
 
 ---
-*“Bridging complex enterprise finance and cutting-edge technology to drive measurable business growth.”*
+*“Bridging complex enterprise finance and scalable digital commerce infrastructure to drive measurable corporate growth.”*
