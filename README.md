@@ -12,11 +12,13 @@ Systems Engineer holding an **MBA in Business Management** with over 15 years of
 
 ## Core Expertise & Technical Competencies
 
-- **ERP & Enterprise Systems:** SAP (Modules: FI, CO, MM), S/4HANA Ready, Global Process Re-engineering.
-- **Digital Commerce & Sales Platforms:** End-to-end mapping, data migration, systems integration, and quality assurance/testing for retail and wholesale multi-channel environments.
-- **Data Analytics & Business Intelligence:** Power BI, Tableau, Advanced SQL, Data Modeling, Enterprise KPI Tracking.
-- **Process Modeling & Governance:** BPMN 2.0 (Bizagi), Change Management, Operational Compliance.
-- **Backend & Automation Engineering:** Python, FastAPI, Selenium, Automated Web Scraping & Market Intelligence.
+- **Enterprise Systems & ERP:** SAP (Modules: FI, CO, MM), S/4HANA Ready, Global Process Re-engineering & Financial Governance.
+- **Process Mining & Data Architecture:** Process Mining (Data Science in Action), End-to-End Workflow Optimization, Data Modeling & Enterprise KPI Tracking.
+- **Digital Commerce & Sales Platforms:** End-to-end mapping, data migration, systems integration, and rigorous Software Testing & Quality Assurance for multi-channel retail and wholesale (atacado) environments.
+- **Advanced Data Analytics & Business Intelligence:** Power BI, Tableau, Advanced SQL, Mathematical Skills for Data Science, and GenAI-driven Data Analytics.
+- **Artificial Intelligence & Innovation Frameworks:** Generative AI for Data Science, AI Integration Methodologies, and Data Science Ethics & Governance.
+- **Process Modeling & Business Leadership:** BPMN 2.0 (Bizagi), Introduction to User Experience (UI/UX) Design, Change Management, and Technology Leadership for Business Value.
+- **Backend & Automation Engineering:** Python (Computer Science Foundations), FastAPI, Selenium, Automated Web Scraping & Market Intelligence.
 - **Languages:** English (Professional), Spanish (Native), Portuguese (Professional).
 
 ---
@@ -40,7 +42,7 @@ Systems Engineer holding an **MBA in Business Management** with over 15 years of
 ## Leadership Programs & Technological Accelerations
 
 - **DIO Campus Expert (Cohorts 16 & 17) — Campus Ambassador & Active Participant:** Selected as a technical community ambassador and active participant across sequential cohorts, driving practical project-based learning, engineering portfolio optimization, and collaborative technology initiatives within the ecosystem.
-- **Santander Open Academy — Skills for Work / Executive Tech Programs (2026):** Selected participant in high-impact scholarship accelerators, focusing on advanced business intelligence, artificial intelligence integration frameworks, and enterprise-grade data engineering methodologies.
+- **Santander Open Academy — Skills for Work / Executive Tech Programs (2026):** Selected participant in high-impact scholarship accelerators, focusing on advanced business intelligence, artificial intelligence integration frameworks, process mining, and enterprise-grade data engineering methodologies.
 
 ---
 
